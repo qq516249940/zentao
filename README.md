@@ -1,4 +1,5 @@
 # 使用
+这个可以集成ldap.
 ```
  docker build -t zentao:12.3.stable . 
 ```
