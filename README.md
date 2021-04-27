@@ -1,3 +1,7 @@
+# 使用
+```
+ docker build -t zentao:12.3.stable . 
+```
 # Docker Image for Zentao
 [![Docker Build Status](https://img.shields.io/docker/build/idoop/zentao.svg)](https://hub.docker.com/r/idoop/zentao/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/idoop/zentao.svg)](https://hub.docker.com/r/idoop/zentao/)
